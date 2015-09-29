@@ -1,7 +1,8 @@
 Package.describe({
   name: 'scalable:module-base',
   summary: 'Base package every module needs to function in the Scalable system.',
-  version: '0.1.0'
+  version: '0.1.0',
+  git: 'https://github.com/sclbl/module-base.git'
 });
 
 Package.onUse(function (api) {
