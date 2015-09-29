@@ -1,6 +1,7 @@
 ################ Meteor-Package ################
 .npm
 .build*
+.versions
 packages/
 
 ################ Sublime Text ################
